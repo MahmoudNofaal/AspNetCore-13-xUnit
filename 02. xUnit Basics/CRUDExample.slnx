@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CRUDExample/CRUDExample.csproj" />
+  <Project Path="CURDTests/CURDTests.csproj" Id="298a1823-6320-4d66-8963-f8e87a0c2ab5" />
+</Solution>

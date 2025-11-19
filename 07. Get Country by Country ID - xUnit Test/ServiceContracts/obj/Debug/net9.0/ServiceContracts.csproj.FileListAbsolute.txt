@@ -1,0 +1,64 @@
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\ServiceContracts\bin\Debug\net9.0\ServiceContracts.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\ServiceContracts\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\ServiceContracts\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\ServiceContracts\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\ServiceContracts\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\ServiceContracts\obj\Debug\net9.0\ServiceContracts.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\ServiceContracts\obj\Debug\net9.0\ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\ServiceContracts\obj\Debug\net9.0\ServiceContracts.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\ServiceContracts\obj\Debug\net9.0\ServiceContracts.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\ServiceContracts\obj\Debug\net9.0\ServiceContracts.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\ServiceContracts\obj\Debug\net9.0\ServiceContracts.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\ServiceContracts\obj\Debug\net9.0\ServiceC.04662A29.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\ServiceContracts\obj\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\ServiceContracts\obj\Debug\net9.0\refint\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\ServiceContracts\obj\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\ServiceContracts\obj\Debug\net9.0\ref\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\ServiceContracts\bin\Debug\net9.0\ServiceContracts.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\ServiceContracts\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\ServiceContracts\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\ServiceContracts\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\ServiceContracts\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\ServiceContracts\obj\Debug\net9.0\ServiceContracts.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\ServiceContracts\obj\Debug\net9.0\ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\ServiceContracts\obj\Debug\net9.0\ServiceContracts.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\ServiceContracts\obj\Debug\net9.0\ServiceContracts.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\ServiceContracts\obj\Debug\net9.0\ServiceContracts.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\ServiceContracts\obj\Debug\net9.0\ServiceContracts.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\ServiceContracts\obj\Debug\net9.0\ServiceC.04662A29.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\ServiceContracts\obj\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\ServiceContracts\obj\Debug\net9.0\refint\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\ServiceContracts\obj\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\ServiceContracts\obj\Debug\net9.0\ref\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\ServiceContracts\bin\Debug\net9.0\ServiceContracts.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\ServiceContracts\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\ServiceContracts\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\ServiceContracts\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\ServiceContracts\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\ServiceContracts\obj\Debug\net9.0\ServiceContracts.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\ServiceContracts\obj\Debug\net9.0\ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\ServiceContracts\obj\Debug\net9.0\ServiceContracts.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\ServiceContracts\obj\Debug\net9.0\ServiceContracts.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\ServiceContracts\obj\Debug\net9.0\ServiceContracts.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\ServiceContracts\obj\Debug\net9.0\ServiceContracts.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\ServiceContracts\obj\Debug\net9.0\ServiceC.04662A29.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\ServiceContracts\obj\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\ServiceContracts\obj\Debug\net9.0\refint\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\ServiceContracts\obj\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\ServiceContracts\obj\Debug\net9.0\ref\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\ServiceContracts\bin\Debug\net9.0\ServiceContracts.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\ServiceContracts\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\ServiceContracts\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\ServiceContracts\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\ServiceContracts\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\ServiceContracts\obj\Debug\net9.0\ServiceContracts.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\ServiceContracts\obj\Debug\net9.0\ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\ServiceContracts\obj\Debug\net9.0\ServiceContracts.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\ServiceContracts\obj\Debug\net9.0\ServiceContracts.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\ServiceContracts\obj\Debug\net9.0\ServiceContracts.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\ServiceContracts\obj\Debug\net9.0\ServiceContracts.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\ServiceContracts\obj\Debug\net9.0\ServiceC.04662A29.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\ServiceContracts\obj\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\ServiceContracts\obj\Debug\net9.0\refint\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\ServiceContracts\obj\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\ServiceContracts\obj\Debug\net9.0\ref\ServiceContracts.dll

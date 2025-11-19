@@ -1,0 +1,48 @@
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\Entities\bin\Debug\net9.0\Entities.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\Entities\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\Entities\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\Entities\obj\Debug\net9.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\Entities\obj\Debug\net9.0\Entities.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\Entities\obj\Debug\net9.0\Entities.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\Entities\obj\Debug\net9.0\Entities.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\Entities\obj\Debug\net9.0\Entities.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\Entities\obj\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\Entities\obj\Debug\net9.0\refint\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\Entities\obj\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\04.  Add Country - Implementation\Entities\obj\Debug\net9.0\ref\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\Entities\bin\Debug\net9.0\Entities.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\Entities\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\Entities\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\Entities\obj\Debug\net9.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\Entities\obj\Debug\net9.0\Entities.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\Entities\obj\Debug\net9.0\Entities.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\Entities\obj\Debug\net9.0\Entities.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\Entities\obj\Debug\net9.0\Entities.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\Entities\obj\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\Entities\obj\Debug\net9.0\refint\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\Entities\obj\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\05. Get All Countries - xUnit Test\Entities\obj\Debug\net9.0\ref\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\Entities\bin\Debug\net9.0\Entities.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\Entities\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\Entities\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\Entities\obj\Debug\net9.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\Entities\obj\Debug\net9.0\Entities.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\Entities\obj\Debug\net9.0\Entities.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\Entities\obj\Debug\net9.0\Entities.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\Entities\obj\Debug\net9.0\Entities.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\Entities\obj\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\Entities\obj\Debug\net9.0\refint\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\Entities\obj\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\06. Get All Countries - Implementation\Entities\obj\Debug\net9.0\ref\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\Entities\bin\Debug\net9.0\Entities.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\Entities\bin\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\Entities\bin\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\Entities\obj\Debug\net9.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\Entities\obj\Debug\net9.0\Entities.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\Entities\obj\Debug\net9.0\Entities.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\Entities\obj\Debug\net9.0\Entities.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\Entities\obj\Debug\net9.0\Entities.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\Entities\obj\Debug\net9.0\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\Entities\obj\Debug\net9.0\refint\Entities.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\Entities\obj\Debug\net9.0\Entities.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\13. xUnit\07. Get Country by Country ID - xUnit Test\Entities\obj\Debug\net9.0\ref\Entities.dll
